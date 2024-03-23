@@ -1,0 +1,30 @@
+body {
+    font-family: "Arial", "Meiryo",sans-serif;
+    text-align: center;
+}
+h1 {
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 40px;
+    font-weight: 48px;
+    text-shadow: 3px 3px 5px gray;
+    border-bottom: solid 3px rgb(115, 115, 114);
+    letter-spacing: 1.2em;
+}
+html {
+    font-size: 20px;
+}
+.text-rgb {
+    /*以下はRGBで色を指定いています*/
+    color: rgb(255, 192, 203);
+}
+.text-skyblue {
+    /*以下はキーワードで色を指定してます*/
+    color: skyblue;
+}
+.decoration {
+    text-align: center;
+    border-bottom: solid 3px rgb(115, 115, 114);
+}
+#basic {
+    font-weight: bold;
+}
